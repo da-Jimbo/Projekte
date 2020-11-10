@@ -1,3 +1,5 @@
+//(C)2010 by da-Jimbo
+//made for Arduino Pro Mini
 
 #include <Adafruit_NeoPixel.h>
 #include <Wire.h>
